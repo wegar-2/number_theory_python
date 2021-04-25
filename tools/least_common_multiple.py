@@ -1,4 +1,4 @@
-import euclid_algorithm as ea
+from tools import euclid_algorithm as ea
 
 
 def least_common_multiple(m, n):

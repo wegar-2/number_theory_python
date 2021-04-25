@@ -1,4 +1,4 @@
-import base_representations as br
+from tools import base_representations as br
 
 
 def modular_exponentiation_special_case(b, k, m):
